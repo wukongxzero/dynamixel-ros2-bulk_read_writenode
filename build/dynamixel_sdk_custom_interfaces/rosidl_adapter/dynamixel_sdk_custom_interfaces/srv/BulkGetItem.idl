@@ -1,0 +1,35 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from dynamixel_sdk_custom_interfaces/srv/BulkGetItem.srv
+// generated code does not contain a copyright notice
+
+
+module dynamixel_sdk_custom_interfaces {
+  module srv {
+    struct BulkGetItem_Request {
+      uint8 id1;
+
+      uint8 id2;
+
+      uint8 id3;
+
+      uint8 id4;
+
+      string item1;
+
+      string item2;
+
+      string item3;
+
+      string item4;
+    };
+    struct BulkGetItem_Response {
+      int32 value1;
+
+      int32 value2;
+
+      int32 value3;
+
+      int32 value4;
+    };
+  };
+};

@@ -1,0 +1,27 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from dynamixel_sdk_custom_interfaces/srv/SyncGetPosition.srv
+// generated code does not contain a copyright notice
+
+
+module dynamixel_sdk_custom_interfaces {
+  module srv {
+    struct SyncGetPosition_Request {
+      uint8 id1;
+
+      uint8 id2;
+
+      uint8 id3;
+
+      uint8 id4;
+    };
+    struct SyncGetPosition_Response {
+      int32 position1;
+
+      int32 position2;
+
+      int32 position3;
+
+      int32 position4;
+    };
+  };
+};

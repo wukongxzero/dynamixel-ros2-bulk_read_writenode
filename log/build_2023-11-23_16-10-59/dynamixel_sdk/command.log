@@ -1,0 +1,3 @@
+Invoking command in '/home/artimonke/DynamixelSDK/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/artimonke/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/artimonke/DynamixelSDK/install/dynamixel_sdk
+Invoked command in '/home/artimonke/DynamixelSDK/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/artimonke/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/artimonke/DynamixelSDK/install/dynamixel_sdk
+Invoking command in '/home/artimonke/DynamixelSDK/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/artimonke/DynamixelSDK/build/dynamixel_sdk -- -j8 -l8

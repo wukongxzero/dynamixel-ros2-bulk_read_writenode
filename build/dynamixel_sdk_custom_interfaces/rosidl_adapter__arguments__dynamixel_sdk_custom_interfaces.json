@@ -1,0 +1,11 @@
+{
+  "package_name": "dynamixel_sdk_custom_interfaces",
+  "non_idl_tuples": [
+    "/home/artimonke/DynamixelSDK/dynamixel_sdk_custom_interfaces:msg/SetPosition.msg",
+    "/home/artimonke/DynamixelSDK/dynamixel_sdk_custom_interfaces:msg/BulkSetItem.msg",
+    "/home/artimonke/DynamixelSDK/dynamixel_sdk_custom_interfaces:msg/SyncSetPosition.msg",
+    "/home/artimonke/DynamixelSDK/dynamixel_sdk_custom_interfaces:srv/GetPosition.srv",
+    "/home/artimonke/DynamixelSDK/dynamixel_sdk_custom_interfaces:srv/BulkGetItem.srv",
+    "/home/artimonke/DynamixelSDK/dynamixel_sdk_custom_interfaces:srv/SyncGetPosition.srv"
+  ]
+}
